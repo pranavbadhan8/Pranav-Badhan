@@ -11,7 +11,7 @@ function App() {
     }
 
   return (
-    <div className="App">
+    <div className="App" >
       <p>Button clicked {count} times</p>
       <button onClick={change}>click me</button>
     </div>
